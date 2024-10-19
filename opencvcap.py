@@ -1,7 +1,5 @@
 import cv2
-#Imported os for createing a new directory and to join images in the directory
 import os
-#For graphical propmpting
 import easygui
 
 
